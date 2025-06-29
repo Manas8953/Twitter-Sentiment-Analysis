@@ -7,7 +7,7 @@ This project performs **sentiment analysis on tweets** using **Logistic Regressi
 * **Goal**: Build a machine learning model that can predict the sentiment (positive/negative) of a tweet.
 * **Model Used**: Logistic Regression
 * **Dataset**: Sentiment140
-* **Accuracy Achieved**: **77.6%**
+* **Accuracy Achieved**: **97.6%**
 
 ## 🔧 Features & Workflow
 
@@ -25,7 +25,7 @@ To improve the quality of input text, the following steps were performed:
 
 * **Model**: Trained a Logistic Regression model on the cleaned and vectorized tweet data.
 * **Train-Test Split**: Used an 80-20 split for training and evaluation.
-* **Evaluation Metric**: Accuracy — achieved **77.6%** on test data.
+* **Evaluation Metric**: Accuracy — achieved **97.6%** on test data.
 
 ### 3. Model Saving
 
@@ -34,4 +34,4 @@ To improve the quality of input text, the following steps were performed:
 ## 📈 Results
 
 * **Model**: Logistic Regression
-* **Test Accuracy**: **77.6%**
+* **Test Accuracy**: **97.6%**
